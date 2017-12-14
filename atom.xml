@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-13T08:18:03.321Z</updated>
+  <updated>2017-12-14T03:31:09.019Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My Friends</title>
+    <link href="http://yoursite.com/2017/12/14/My-Friends-1/"/>
+    <id>http://yoursite.com/2017/12/14/My-Friends-1/</id>
+    <published>2017-12-14T03:31:08.000Z</published>
+    <updated>2017-12-14T03:31:09.019Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>My Friends</title>
+    <link href="http://yoursite.com/2017/12/14/My-Friends/"/>
+    <id>http://yoursite.com/2017/12/14/My-Friends/</id>
+    <published>2017-12-14T03:22:17.000Z</published>
+    <updated>2017-12-14T03:28:17.178Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="两个SB"><a href="#两个SB" class="headerlink" title="两个SB"></a>两个SB</h2><h3 id="看什么看"><a href="#看什么看" class="headerlink" title="看什么看"></a>看什么看</h3><h3 id="在看打爆你的眼睛"><a href="#在看打爆你的眼睛" class="headerlink" title="在看打爆你的眼睛"></a>在看打爆你的眼睛</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;两个SB&quot;&gt;&lt;a href=&quot;#两个SB&quot; class=&quot;headerlink&quot; title=&quot;两个SB&quot;&gt;&lt;/a&gt;两个SB&lt;/h2&gt;&lt;h3 id=&quot;看什么看&quot;&gt;&lt;a href=&quot;#看什么看&quot; class=&quot;headerlink&quot; title=&quot;看什么看&quot;&gt;&lt;/a
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
